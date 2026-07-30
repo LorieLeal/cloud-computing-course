@@ -1,3 +1,9 @@
-# Reflections
+# Cloud Computing Concepts Reflection
 
-Reflection papers for CCM101.
+Cloud computing is part of my daily life because I use many online applications for communication, learning, entertainment, and managing important files. Three cloud services I regularly use are Google Drive, Facebook Messenger, and Canva. These applications make my daily tasks more convenient because I can access them anytime using an internet connection.
+
+Google Drive is a **Software as a Service (SaaS)** because it provides online file storage and document management without requiring users to install or maintain the system. It uses the **Public Cloud** deployment model since its services are available to anyone with a Google account over the internet. Facebook Messenger is also a **Software as a Service (SaaS)** because it allows users to send messages, make calls, and share media through a web-based platform. It also follows the **Public Cloud** deployment model because millions of users can access the service online. Canva is another example of **Software as a Service (SaaS)** because it provides cloud-based graphic design tools that can be used through a web browser or mobile application. Like the other services, Canva operates on the **Public Cloud**, making it available to users worldwide.
+
+Version control is very important when working on cloud projects because it keeps track of every change made to files and allows developers to return to previous versions if mistakes happen. It also helps prevent conflicts when multiple people are working on the same project. GitHub makes collaboration easier by allowing team members to share code, review updates, and document changes through commits. It provides a central place where everyone can contribute while maintaining an organized history of the project. Using Git and GitHub improves teamwork, reduces errors, and ensures that cloud-based projects are developed efficiently and securely.
+
+Overall, this activity helped me understand that cloud computing is not only a technology used by businesses but also a part of my everyday life. It also showed me the importance of version control in developing reliable and well-managed cloud projects.
