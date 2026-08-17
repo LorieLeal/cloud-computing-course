@@ -14,17 +14,21 @@
 
 ## Questions
 
-**1. Which cloud provider offers the broadest range of services?**
-AWS offers the broadest range of services, with hundreds of offerings across compute, storage, databases, and AI/ML. Its long history since 2006 gave it more time to build out a mature and extensive service catalog compared to Azure and GCP.
+### 1. Which cloud provider offers the broadest range of services?
 
-**2. Which provider best integrates with Microsoft technologies?**
-Microsoft Azure best integrates with Microsoft technologies since it is built by Microsoft itself. It works seamlessly with Windows Server, Microsoft 365, and Active Directory, making it the natural choice for organizations already using these tools.
+AWS offers a very broad range of cloud services covering computing, storage, databases, networking, security, analytics, and other IT needs. This makes AWS a strong choice for organizations that need many different cloud capabilities from one provider.
 
-**3. Which provider is strongest in Artificial Intelligence and Kubernetes?**
-Google Cloud Platform is strongest in AI and Kubernetes. Google created Kubernetes and continues to lead its development, and GCP's AI/ML tools like Vertex AI and BigQuery are built on Google's own research and infrastructure.
+### 2. Which provider best integrates with Microsoft technologies?
 
-**4. Which cloud platform would you personally choose and why?**
-*(Sagutin mo ito base sa sarili mong opinyon — walang tamang sagot dito, kaya isulat mo ang totoong dahilan mo.)*
+Microsoft Azure best integrates with Microsoft technologies because it is part of the Microsoft cloud ecosystem. Organizations already using Windows Server, Microsoft 365, and Active Directory can use Azure services that work closely with these technologies.
+
+### 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
+
+Google Cloud Platform is a strong choice for Artificial Intelligence and Kubernetes because of its data and AI capabilities and Google Kubernetes Engine (GKE). GKE provides a managed environment for deploying and managing containerized applications using Kubernetes.
+
+### 4. Which cloud platform would you personally choose and why?
+
+I would personally choose AWS because it provides a wide range of services and can support different types of workloads. Its services can be used by both growing startups and large organizations, making it a flexible cloud platform for different business requirements.
 
 ## Service Matching Table
 
