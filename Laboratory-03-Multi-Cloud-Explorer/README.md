@@ -20,13 +20,6 @@ The terminal output was used to identify:
 * Memory
 * Disk Space
 
-## Based on the terminal output, the following information was collected:
-
-* *Operating System:* Ubuntu 24.04.4 LTS (Noble Numbat)
-* *CPU Information:* [PASTE MO DITO ANG LSCPU OUTPUT MO]
-* *Memory:* [PASTE MO DITO ANG FREE -H OUTPUT MO]
-* *Disk Space:* [PASTE MO DITO ANG DF -H OUTPUT MO]
-
 ### Cloud Services for Hosting the Linux Server
 
 If the investigated Linux server were migrated to the cloud, equivalent virtual machine services could be used from each cloud provider.
