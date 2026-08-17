@@ -1,21 +1,50 @@
-# Laboratory Activity 3: Multi-Cloud Explorer
+# Laboratory 03 – Multi-Cloud Explorer
 
-This folder contains my research, comparisons, and recommendations for AWS, Microsoft Azure, and Google Cloud Platform (GCP) as part of Mission 3: Become a Multi-Cloud Explorer.
+## Mission Overview
 
-## Contents
-- aws-research.md
-- azure-research.md
-- gcp-research.md
-- cloud-platform-comparison.md
-- client-recommendations.md
-- reflection.md
-- screenshots/
-## Checkpoint 7: Linux to Cloud Migration
+This laboratory activity explores and compares three major public cloud platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). The activity focuses on their infrastructure, core services, advantages, and possible applications for different business requirements.
 
-If this Ubuntu Linux server (running on KillerCoda) were migrated to the cloud, it could be hosted using the following equivalent services:
+## Linux Server Investigation
 
-- **AWS:** Amazon EC2 (Elastic Compute Cloud) with an Ubuntu AMI, sized based on the CPU and memory specs gathered from the terminal (`lscpu`, `free -h`), and EBS (Elastic Block Store) for the disk storage shown by `df -h`.
-- **Azure:** Azure Virtual Machines using an Ubuntu image, matched to a VM size with equivalent vCPU and RAM, paired with Azure Managed Disks for storage.
-- **GCP:** Compute Engine using an Ubuntu-based VM instance, sized according to the same CPU/memory requirements, with Persistent Disk for storage.
+A KillerCoda Linux Playground was used to investigate the basic information of a Linux server. The investigation focused on identifying the operating system, CPU information, memory, and available disk space.
 
-All three platforms offer virtual machine services that can replicate this Linux environment's specifications (OS, CPU, memory, and disk space) in the cloud.
+### Linux Commands Used
+
+The following Linux commands were used to collect the required information:
+
+### Information Collected
+
+The terminal output was used to identify:
+* Operating System
+* CPU Information
+* Memory
+* Disk Space
+
+## Based on the terminal output, the following information was collected:
+
+* *Operating System:* Ubuntu 24.04.4 LTS (Noble Numbat)
+* *CPU Information:* [PASTE MO DITO ANG LSCPU OUTPUT MO]
+* *Memory:* [PASTE MO DITO ANG FREE -H OUTPUT MO]
+* *Disk Space:* [PASTE MO DITO ANG DF -H OUTPUT MO]
+
+### Cloud Services for Hosting the Linux Server
+
+If the investigated Linux server were migrated to the cloud, equivalent virtual machine services could be used from each cloud provider.
+
+| Cloud Provider        | Service                |
+| ---------------------- | ---------------------- |
+| AWS                   | Amazon EC2             |
+| Microsoft Azure       | Azure Virtual Machines |
+| Google Cloud Platform | Compute Engine         |
+
+These services provide virtual computing environments where Linux-based workloads can be deployed and managed in the cloud.
+
+## Linux Investigation Screenshot
+
+![KillerCoda Terminal](screenshots/killercoda-terminal.png)
+
+## Mission Summary
+
+Through this laboratory activity, AWS, Microsoft Azure, and Google Cloud Platform were explored and compared. Their services were also matched according to different categories such as computing, storage, networking, identity management, databases, and Kubernetes.
+
+The activity demonstrates that cloud platform selection should be based on the specific requirements of an organization rather than popularity alone.
